@@ -1,0 +1,5 @@
+D:\IOT\Seimens Energy\DMA\dma_poc\DotNet_PoC\obj\Debug\net5.0\DotNet_PoC.csproj.AssemblyReference.cache
+D:\IOT\Seimens Energy\DMA\dma_poc\DotNet_PoC\obj\Debug\net5.0\DotNet_PoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\IOT\Seimens Energy\DMA\dma_poc\DotNet_PoC\obj\Debug\net5.0\DotNet_PoC.AssemblyInfoInputs.cache
+D:\IOT\Seimens Energy\DMA\dma_poc\DotNet_PoC\obj\Debug\net5.0\DotNet_PoC.AssemblyInfo.cs
+D:\IOT\Seimens Energy\DMA\dma_poc\DotNet_PoC\obj\Debug\net5.0\DotNet_PoC.csproj.CoreCompileInputs.cache

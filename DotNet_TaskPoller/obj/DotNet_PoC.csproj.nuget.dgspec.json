@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IOT\\Seimens Energy\\DMA\\dma_poc\\DotNet_TaskPoller\\DotNet_PoC.csproj": {}
+  },
+  "projects": {
+    "D:\\IOT\\Seimens Energy\\DMA\\dma_poc\\DotNet_TaskPoller\\DotNet_PoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\IOT\\Seimens Energy\\DMA\\dma_poc\\DotNet_TaskPoller\\DotNet_PoC.csproj",
+        "projectName": "DotNet_PoC",
+        "projectPath": "D:\\IOT\\Seimens Energy\\DMA\\dma_poc\\DotNet_TaskPoller\\DotNet_PoC.csproj",
+        "packagesPath": "C:\\Users\\1034462\\.nuget\\packages\\",
+        "outputPath": "D:\\IOT\\Seimens Energy\\DMA\\dma_poc\\DotNet_TaskPoller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "D:\\IOT\\Seimens Energy\\DMA\\dma_poc\\DotNet_TaskPoller\\NuGet.Config",
+          "C:\\Users\\1034462\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.6.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

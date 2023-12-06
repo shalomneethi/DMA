@@ -5,13 +5,13 @@ FROM python:3.9-slim
 WORKDIR /app
 
 # Copy the Python requirements file into the container
-COPY requirements.txt .
+COPY STA-RMS_Simulator/requirements.txt .
 
 # Install any needed packages specified in requirements.txt
 RUN pip install -r requirements.txt
 
 # Copy the Flask application code into the container
-COPY sta-rms-app.py .
+COPY STA-RMS_Simulator/sta-rms-app.py .
 
 # Make port 5000 available to the world outside this container
 EXPOSE 5000
